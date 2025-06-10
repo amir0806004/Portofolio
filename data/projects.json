@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Arduino-based Automatic Hand Sanitizer and Temperature Check Project for Health",
+        "year": "2023",
+        "fund": "$50",
+        "partner": "Ahmad Mizan Fatwa(EK-3A)",
+        "role": "Lead Engineer",
+        "description": "automatic hand sanitizer and temperature check project for health using MLX90614 sensor for temperature check and using infrared sensor for distance sensor and using arduino microcontroller.",
+        "image": "images/csoon2.jpg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Smart clothes making project for elderly people based on arduino",
+        "year": "2023",
+        "partner": "Mamun Faizun I, Ridho Faiqal, Alwi Hanafi",
+        "role": "Project Member",
+        "description": "Smart clothing project for elderly people based on Arduino using gyro sensors to detect whether someone has fallen and using a pulse sensor that is displayed on the LCD.",
+        "image": "images/csoon2.jpg",
+        "link": "https://example.com/assembly-optimization"
+    },
+	{
+        "title": "Field Work Practice at Pura Barutama Offset Unit",
+        "year": "2024",
+        "job": "Engineering Section",
+        "role": "Electrical Engineering",
+        "description": "Carry out electrical repair tasks on printing machines, cutting machines, folding machines, etc..",
+        "image": "images/csoon2.jpg",
+        "link": "https://example.com/solar-water"
+	}
+]

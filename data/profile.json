@@ -1,0 +1,35 @@
+{
+    "name": "Amir Noor Wicaksono- Lecturer Computer and Electronic Engineering",
+    "description": "A dedicated and enthusiastic Electronics Engineering student with a strong passion for exploring and understanding the world of technology. Highly motivated to learn and share knowledge with peers, while actively keeping up with the latest developments in the field of electronics. Experienced in conducting lab projects and small-scale research that combine theoretical concepts with real-world applications to deepen technical understanding. Skilled in working both independently and collaboratively in academic settings that demand analytical thinking, precision, and innovation. Committed to continuous skill development and personal growth to become a professional engineer capable of making meaningful contributions to the technology industry and education in the future.",
+    "profileImage": "images/5a7c5d6a-f97a-4053-b4fd-62bb2dd0f5bc.jpg",
+    "email": "amirnoor938@gmail.com",
+    "phone": "+62 (859) 406-53749",
+    "socialMedia": [
+        {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/amir.wicaksono.56"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/amirwcksono/"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://x.com/mrsung86?s=11"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV amir noor w.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electronical Engineering", "icon": "fas fa-heart-pulse", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 75},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 65},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 65},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 70}
+    ]
+}
