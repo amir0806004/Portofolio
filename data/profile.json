@@ -24,7 +24,7 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Electronical Engineering", "icon": "fas fa-heart-pulse", "level": 70},
+        {"name": "Electronical Engineering", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 75},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 65},
