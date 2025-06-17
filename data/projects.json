@@ -19,11 +19,11 @@
         "link": "https://example.com/assembly-optimization"
     },
 	{
-        "title": "Field Work Practice at Pura Barutama Offset Unit",
-        "year": "2024",
-        "job": "Engineering Section",
-        "role": "Electrical Engineering",
-        "description": "Carry out electrical repair tasks on printing machines, cutting machines, folding machines, etc..",
+        "title": "Prototype System automatic railway crossing system based on PID witch HCSR sensor",
+        "year": "2025",
+        "job": "Huda and Kamal",
+        "role": "Mechanical",
+        "description": "create a prototype of an automatic railroad crossing using PID so that when it goes down it can be smooth when closing",
         "image": "images/csoon2.jpg",
         "link": "https://example.com/solar-water"
 	}
