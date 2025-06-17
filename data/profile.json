@@ -10,8 +10,8 @@
             "url": "https://www.facebook.com/amir.wicaksono.56"
         },
         {
-            "platform": "Instagram",
-            "url": "https://www.instagram.com/amirwcksono/"
+            "platform": "GitHub",
+            "url": "https://github.com/amir0806004"
         },
         {
             "platform": "Twitter",
@@ -29,7 +29,6 @@
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 75},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 65},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 65},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 70}
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 75}
     ]
 }
